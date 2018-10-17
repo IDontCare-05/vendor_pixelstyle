@@ -171,6 +171,13 @@ PRODUCT_PACKAGES += \
     Narrow \
     SwitchTelegram
 
+# QS Tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim
+
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
     MatchmakerPrebuiltPixel4
