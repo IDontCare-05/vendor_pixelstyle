@@ -181,7 +181,12 @@ PRODUCT_PACKAGES += \
     QStileCircleTrim \
     QStileDefault \
     QStileDualToneCircle \
-    QStileSquircleTrim
+    QStileSquircleTrim \
+    QStileAttemptMountain \
+    QStileDottedCircle \
+    QStileNinja \
+    QStilePokesign \
+    QStileWavey
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
