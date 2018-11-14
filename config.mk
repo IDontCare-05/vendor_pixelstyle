@@ -191,7 +191,9 @@ PRODUCT_PACKAGES += \
     QSTileDividedCircle \
     QSTileNeonLight \
     QSTileOxygen \
-    QSTileTriangles
+    QSTileTriangles \
+    QSTileSquircle \
+    QSTileTearDrop
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
