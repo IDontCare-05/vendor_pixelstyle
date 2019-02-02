@@ -188,7 +188,8 @@ PRODUCT_PACKAGES += \
     QStilePokesign \
     QStileWavey \
     QStileSquaremedo \
-    QStileInkDrop
+    QStileInkDrop \
+    QStileCookie
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
