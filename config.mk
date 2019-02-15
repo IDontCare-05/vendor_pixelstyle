@@ -184,7 +184,8 @@ PRODUCT_PACKAGES += \
     QStileWavey \
     QStileSquaremedo \
     QStileInkDrop \
-    QStileCookie
+    QStileCookie \
+    QStilesCircleOutline
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
