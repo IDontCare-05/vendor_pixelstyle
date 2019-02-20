@@ -168,7 +168,8 @@ PRODUCT_PACKAGES += \
     SwitchStock \
     Contained \
     Retro \
-    Narrow
+    Narrow \
+    SwitchTelegram
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
