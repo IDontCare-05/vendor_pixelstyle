@@ -190,7 +190,13 @@ PRODUCT_PACKAGES += \
     QStileSquaremedo \
     QStileInkDrop \
     QStileCookie \
-    QStilesCircleOutline
+    QStilesCircleOutline \
+    QStilesCircleOutline \
+    QSTileCosmos \
+    QSTileDividedCircle \
+    QSTileNeonLight \
+    QSTileOxygen \
+    QSTileTriangles
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
