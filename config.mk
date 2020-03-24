@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     GooglePermissionControllerOverlay \
-    PixelDocumentsUIGoogleOverlay \
     OPScreenRecorder
 
 # Overlay Packages
