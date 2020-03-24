@@ -24,6 +24,18 @@ PRODUCT_PACKAGES += \
     PixelDocumentsUIGoogleOverlay \
     OPScreenRecorder
 
+# Overlay Packages
+PRODUCT_PACKAGES += \
+    AncientLinesAndroidOverlay \
+    AncientLinesLauncherOverlay \
+    AncientLinesSettingsOverlay \
+    AncientLinesSystemUIOverlay \
+    AncientLinesThemePickerOverlay \
+    AncientIconShapeHexagon \
+    AncientIconShapeLeaf \
+    AncientIconShapeSammy \
+    AncientIconShapeTeardrop
+
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
     MatchmakerPrebuiltPixel4
