@@ -33,7 +33,38 @@ PRODUCT_PACKAGES += \
     AncientIconShapeHexagon \
     AncientIconShapeLeaf \
     AncientIconShapeSammy \
-    AncientIconShapeTeardrop
+    AncientIconShapeTeardrop \
+    AncientCenterClockAndroid \
+    AncientCenterClockLauncher \
+    AncientCenterClockSettings \
+    AncientCenterClockSystemUI \
+    AncientCenterClockThemePicker \
+    AncientRightClockAndroid \
+    AncientRightClockLauncher \
+    AncientRightClockSettings \
+    AncientRightClockSystemUI \
+    AncientRightClockThemePicker \
+    IconShapeAncientBall \
+    IconShapeAncientBalloon \
+    IconShapeAncientCandy \
+    IconShapeAncientCloud \
+    IconShapeAncientCup \
+    IconShapeAncientQuatrefoil \
+    IconShapeAncientQuintafoil \
+    IconShapeAncientTwelveStarsStripes \
+    IconShapeAncientYinYang \
+    PrimaryColorAlmostBlack \
+    PrimaryColorAncient \
+    PrimaryColorAncientBlack \
+    PrimaryColorAncientClear \
+    PrimaryColorAncientCocolate \
+    PrimaryColorAncientDeepRed \
+    PrimaryColorAncientGrey \
+    PrimaryColorAncientPastel \
+    PrimaryColorDarkBlue \
+    PrimaryColorEyeSoother \
+    PrimaryColorNature \
+    PrimaryColorOcean
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
