@@ -64,7 +64,31 @@ PRODUCT_PACKAGES += \
     PrimaryColorDarkBlue \
     PrimaryColorEyeSoother \
     PrimaryColorNature \
-    PrimaryColorOcean
+    PrimaryColorOcean \
+    AncientIconShapeClover \
+    AncientIconShapeFourEdge \
+    AncientIconShapeShurikenStars \
+    ChromeOverlay \
+    ContactOverlay \
+    DialerOverlay \
+    IconPackAnci1Android \
+    IconPackAnci1PixelLauncher \
+    IconPackAnci1PixelThemePicker \
+    IconPackAnci1Settings \
+    IconPackAnci1SystemUI \
+    IconPackAnci2Android \
+    IconPackAnci2PixelLauncher \
+    IconPackAnci2PixelThemePicker \
+    IconPackAnci2Settings \
+    IconPackAnci2SystemUI \
+    IconPackCircularAndroid \
+    IconPackCircularSystemUI \
+    MessagingOverlay \
+    TelegramOverlay \
+    VanillaContact \
+    VanillaDialer \
+    VanillaMessaging \
+    WhatsAppOverlay
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
