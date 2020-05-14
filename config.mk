@@ -77,7 +77,8 @@ PRODUCT_PACKAGES += \
     IconPackCircularAndroid \
     IconPackCircularSystemUI \
     TelegramOverlay \
-    WhatsAppOverlay
+    WhatsAppOverlay \
+    SettingsOverlay
 
 # Overlay packages
 ifeq ($(ANCIENT_NOGAPPS), true)
