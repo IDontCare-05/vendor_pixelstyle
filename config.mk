@@ -64,8 +64,6 @@ PRODUCT_PACKAGES += \
     AncientIconShapeFourEdge \
     AncientIconShapeShurikenStars \
     ChromeOverlay \
-    ContactOverlay \
-    DialerOverlay \
     IconPackAnci1Android \
     IconPackAnci1PixelLauncher \
     IconPackAnci1PixelThemePicker \
@@ -78,12 +76,21 @@ PRODUCT_PACKAGES += \
     IconPackAnci2SystemUI \
     IconPackCircularAndroid \
     IconPackCircularSystemUI \
-    MessagingOverlay \
     TelegramOverlay \
+    WhatsAppOverlay
+
+# Overlay packages
+ifeq ($(ANCIENT_NOGAPPS), true)
+PRODUCT_PACKAGES += \
     VanillaContactOverlay \
     VanillaDialerOverlay \
-    VanillaMessagingOverlay \
-    WhatsAppOverlay
+    VanillaMessagingOverlay
+else
+PRODUCT_PACKAGES += \
+    ContactOverlay \
+    DialerOverlay \
+    MessagingOverlay
+endif
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
