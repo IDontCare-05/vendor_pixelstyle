@@ -25,11 +25,6 @@ PRODUCT_PACKAGES += \
 
 # Overlay Packages
 PRODUCT_PACKAGES += \
-    AncientLinesAndroidOverlay \
-    AncientLinesLauncherOverlay \
-    AncientLinesSettingsOverlay \
-    AncientLinesSystemUIOverlay \
-    AncientLinesThemePickerOverlay \
     AncientIconShapeHexagon \
     AncientIconShapeLeaf \
     AncientIconShapeSammy \
