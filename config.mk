@@ -80,9 +80,9 @@ PRODUCT_PACKAGES += \
     IconPackCircularSystemUI \
     MessagingOverlay \
     TelegramOverlay \
-    VanillaContact \
-    VanillaDialer \
-    VanillaMessaging \
+    VanillaContactOverlay \
+    VanillaDialerOverlay \
+    VanillaMessagingOverlay \
     WhatsAppOverlay
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
