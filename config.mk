@@ -162,6 +162,14 @@ PRODUCT_PACKAGES += \
     MessagingOverlay
 endif
 
+# Switch themes
+PRODUCT_PACKAGES += \
+    SwitchOnePlus \
+    SwitchStock \
+    Contained \
+    Retro \
+    Narrow
+
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
     MatchmakerPrebuiltPixel4
