@@ -20,7 +20,6 @@ PRODUCT_PACKAGES += \
     PixelThemesStub2019 \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
-    GooglePermissionControllerOverlay \
     OPScreenRecorder
 
 # Overlay Packages
