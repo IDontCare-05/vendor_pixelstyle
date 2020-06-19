@@ -82,7 +82,29 @@ PRODUCT_PACKAGES += \
     IconPackAnci3PixelLauncher \
     IconPackAnci3PixelThemePicker \
     IconPackAnci3Settings \
-    IconPackAnci3SystemUI
+    IconPackAnci3SystemUI \
+    IconPackAnci0Android \
+    IconPackAnci0PixelLauncher \
+    IconPackAnci0PixelThemePicker \
+    IconPackAnci0Settings \
+    IconPackAnci0SystemUI \
+    IconPackAnciSLAndroid \
+    IconPackAnciSLCAndroid \
+    IconPackAnciSLCPixelLauncher \
+    IconPackAnciSLCPixelThemePicker \
+    IconPackAnciSLCSettings \
+    IconPackAnciSLCSystemUI \
+    IconPackAnciSLPixelLauncher \
+    IconPackAnciSLPixelThemePicker \
+    IconPackAnciSLSettings \
+    IconPackAnciSLSystemUI \
+    IconPackAnciosAndroid \
+    IconPackAnciosPixelLauncher \
+    IconPackAnciosPixelThemePicker \
+    IconPackAnciosSettings \
+    IconPackAnciosSystemUI \
+    IconShapePapperBroke \
+    IconShapePapperScroll
 
 # Overlay packages
 ifeq ($(ANCIENT_NOGAPPS), true)
