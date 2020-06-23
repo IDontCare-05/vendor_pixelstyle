@@ -104,7 +104,58 @@ PRODUCT_PACKAGES += \
     IconPackAnciosSettings \
     IconPackAnciosSystemUI \
     IconShapePapperBroke \
-    IconShapePapperScroll
+    IconShapePapperScroll \
+    AncientFontCoreMellow \
+    AncientFontNetFlixSans \
+    AncientFontUbuntu \
+    AncientHybridAndroid \
+    AncientHybridLauncher \
+    AncientHybridSettings \
+    AncientHybridSystemUI \
+    AncientHybridThemePicker \
+    AncientLeafCenterAndroid \
+    AncientLeafCenterLauncher \
+    AncientLeafCenterSettings \
+    AncientLeafCenterSystemUI \
+    AncientLeafCenterThemePicker \
+    AncientLinesAndroid \
+    AncientLinesLauncher \
+    AncientLinesSettings \
+    AncientLinesSystemUI \
+    AncientLinesThemePicker \
+    AncientShapeArrow \
+    AncientShapeCylinder \
+    AncientShapeKonoha \
+    AncientShapePakmen \
+    AncientShapePebble \
+    AncientShapePuzzle \
+    AncientShapeRockshield \
+    AncientShapeTapperedRect \
+    AncientShapeVessel \
+    DisableMacRandomization \
+    FontCherrySwash \
+    FontCocon \
+    FontDisney \
+    FontFucek \
+    FontGoogleSans \
+    FontLemon \
+    FontRobotoCondensed \
+    FontSamsungSans \
+    FontSimpleDay \
+    IconPackAnci5Android \
+    IconPackAnci5PixelLauncher \
+    IconPackAnci5PixelThemePicker \
+    IconPackAnci5Settings \
+    IconPackAnci5SystemUI \
+    NavigationBarModeGestural \
+    NavigationBarModeGesturalExtraWideBack \
+    NavigationBarModeGesturalExtraWideBackNoPill \
+    NavigationBarModeGesturalNarrowBack \
+    NavigationBarModeGesturalNarrowBackNoPill \
+    NavigationBarModeGesturalNoPill \
+    NavigationBarModeGesturalWideBack \
+    NavigationBarModeGesturalWideBackNoPill \
+    Vshape
 
 # Overlay packages
 ifeq ($(ANCIENT_NOGAPPS), true)
