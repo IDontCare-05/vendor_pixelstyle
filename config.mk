@@ -155,7 +155,12 @@ PRODUCT_PACKAGES += \
     NavigationBarModeGesturalNoPill \
     NavigationBarModeGesturalWideBack \
     NavigationBarModeGesturalWideBackNoPill \
-    Vshape
+    Vshape \
+    IconPackAnciWibuAndroid \
+    IconPackAnciWibuPixelLauncher \
+    IconPackAnciWibuPixelThemePicker \
+    IconPackAnciWibuSettings \
+    IconPackAnciWibuSystemUI
 
 # Overlay packages
 ifeq ($(ANCIENT_NOGAPPS), true)
