@@ -147,14 +147,6 @@ PRODUCT_PACKAGES += \
     IconPackAnci5PixelThemePicker \
     IconPackAnci5Settings \
     IconPackAnci5SystemUI \
-    NavigationBarModeGestural \
-    NavigationBarModeGesturalExtraWideBack \
-    NavigationBarModeGesturalExtraWideBackNoPill \
-    NavigationBarModeGesturalNarrowBack \
-    NavigationBarModeGesturalNarrowBackNoPill \
-    NavigationBarModeGesturalNoPill \
-    NavigationBarModeGesturalWideBack \
-    NavigationBarModeGesturalWideBackNoPill \
     Vshape
 
 # Overlay packages
