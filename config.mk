@@ -200,6 +200,74 @@ PRODUCT_PACKAGES += \
     QSTileSquircle \
     QSTileTearDrop
 
+# AncientStyle
+PRODUCT_PACKAGES += \
+    AnalogEight \
+    AnalogFive \
+    AnalogFour \
+    AnalogNine \
+    AnalogOne \
+    AnalogSeven \
+    AnalogSix \
+    AnalogTen \
+    AnalogThree \
+    AnalogTwo \
+    Analogdefault \
+    QSClockDefault \
+    QSClockLeft \
+    QSClockRight \
+    QSTileAncientEight \
+    QSTileAncientFive \
+    QSTileAncientFour \
+    QSTileAncientNine \
+    QSTileAncientOne \
+    QSTileAncientSeven \
+    QSTileAncientThree \
+    QSTileAncientTwo \
+    QSTileAncientSix \
+    QSTileAncientTwel \
+    QSTileAncientElv \
+    QSTileOxygen \
+    QSClock \
+    QSClockEight \
+    QSClockElev \
+    QSClockFifth \
+    QSClockFive \
+    QSClockFour \
+    QSClockFourth \
+    QSClockNine \
+    QSClockOne \
+    QSClockSeven \
+    QSClockSix \
+    QSClockSixth \
+    QSClockTen \
+    QSClockThird \
+    QSClockThree \
+    QSClockTwe \
+    QSClockTwo \
+    QSClockZero \
+    SettingAncient \
+    SettingAncientCenter \
+    SettingAncientDefault \
+    SettingAncientEight \
+    SettingAncientElv \
+    SettingAncientFifth \
+    SettingAncientFive \
+    SettingAncientFour \
+    SettingAncientFourth \
+    SettingAncientLeft \
+    SettingAncientNine \
+    SettingAncientOne \
+    SettingAncientSeven \
+    SettingAncientSix \
+    SettingAncientSixth \
+    SettingAncientTen \
+    SettingAncientThir \
+    SettingAncientThree \
+    SettingAncientTwel \
+    SettingAncientTwo \
+    SettingAncientZero
+
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
     MatchmakerPrebuiltPixel4
