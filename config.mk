@@ -30,12 +30,10 @@ PRODUCT_PACKAGES += \
     AncientIconShapeTeardrop \
     AncientCenterClockAndroid \
     AncientCenterClockLauncher \
-    AncientCenterClockSettings \
     AncientCenterClockSystemUI \
     AncientCenterClockThemePicker \
     AncientRightClockAndroid \
     AncientRightClockLauncher \
-    AncientRightClockSettings \
     AncientRightClockSystemUI \
     AncientRightClockThemePicker \
     IconShapeAncientBall \
@@ -66,12 +64,10 @@ PRODUCT_PACKAGES += \
     IconPackAnci1Android \
     IconPackAnci1PixelLauncher \
     IconPackAnci1PixelThemePicker \
-    IconPackAnci1Settings \
     IconPackAnci1SystemUI \
     IconPackAnci2Android \
     IconPackAnci2PixelLauncher \
     IconPackAnci2PixelThemePicker \
-    IconPackAnci2Settings \
     IconPackAnci2SystemUI \
     IconPackCircularAndroid \
     IconPackCircularSystemUI \
@@ -81,27 +77,22 @@ PRODUCT_PACKAGES += \
     IconPackAnci3Android \
     IconPackAnci3PixelLauncher \
     IconPackAnci3PixelThemePicker \
-    IconPackAnci3Settings \
     IconPackAnci3SystemUI \
     IconPackAnci0Android \
     IconPackAnci0PixelLauncher \
     IconPackAnci0PixelThemePicker \
-    IconPackAnci0Settings \
     IconPackAnci0SystemUI \
     IconPackAnciSLAndroid \
     IconPackAnciSLCAndroid \
     IconPackAnciSLCPixelLauncher \
     IconPackAnciSLCPixelThemePicker \
-    IconPackAnciSLCSettings \
     IconPackAnciSLCSystemUI \
     IconPackAnciSLPixelLauncher \
     IconPackAnciSLPixelThemePicker \
-    IconPackAnciSLSettings \
     IconPackAnciSLSystemUI \
     IconPackAnciosAndroid \
     IconPackAnciosPixelLauncher \
     IconPackAnciosPixelThemePicker \
-    IconPackAnciosSettings \
     IconPackAnciosSystemUI \
     IconShapePapperBroke \
     IconShapePapperScroll \
@@ -110,17 +101,14 @@ PRODUCT_PACKAGES += \
     AncientFontUbuntu \
     AncientHybridAndroid \
     AncientHybridLauncher \
-    AncientHybridSettings \
     AncientHybridSystemUI \
     AncientHybridThemePicker \
     AncientLeafCenterAndroid \
     AncientLeafCenterLauncher \
-    AncientLeafCenterSettings \
     AncientLeafCenterSystemUI \
     AncientLeafCenterThemePicker \
     AncientLinesAndroid \
     AncientLinesLauncher \
-    AncientLinesSettings \
     AncientLinesSystemUI \
     AncientLinesThemePicker \
     AncientShapeArrow \
@@ -145,7 +133,6 @@ PRODUCT_PACKAGES += \
     IconPackAnci5Android \
     IconPackAnci5PixelLauncher \
     IconPackAnci5PixelThemePicker \
-    IconPackAnci5Settings \
     IconPackAnci5SystemUI \
     Vshape
 
