@@ -190,7 +190,6 @@ PRODUCT_PACKAGES += \
     QSTileCosmos \
     QSTileDividedCircle \
     QSTileNeonLight \
-    QSTileOxygen \
     QSTileTriangles \
     QSTileSquircle \
     QSTileTearDrop
