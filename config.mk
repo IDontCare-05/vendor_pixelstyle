@@ -188,6 +188,9 @@ PRODUCT_PACKAGES += \
 
 # AncientStyle
 PRODUCT_PACKAGES += \
+    StatusbarDefault \
+    Statusbar40dp \
+    Statusbar50dp \
     AnalogEight \
     AnalogFive \
     AnalogFour \
