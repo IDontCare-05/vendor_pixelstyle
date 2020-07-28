@@ -138,7 +138,6 @@ PRODUCT_PACKAGES += \
     IconPackAnciWibuAndroid \
     IconPackAnciWibuPixelLauncher \
     IconPackAnciWibuPixelThemePicker \
-    IconPackAnciWibuSettings \
     IconPackAnciWibuSystemUI
 
 # Overlay packages
