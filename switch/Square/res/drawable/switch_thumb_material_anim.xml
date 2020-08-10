@@ -32,7 +32,7 @@
                 <shape android:shape="rectangle"
                   xmlns:android="http://schemas.android.com/apk/res/android">
                     <corners android:radius="0.0dip" />
-                    <stroke android:strokeColor="?*android:textColorPrimary" android:strokeWidth="10.0" />
+                    <stroke android:strokeColor="?android:textColorPrimary" android:strokeWidth="10.0" />
                     <solid android:color="@*android:color/gradient_end" />
                     <size android:height="16.0dip" android:width="16.0dip" />
                 </shape>
@@ -41,7 +41,7 @@
                 <shape android:shape="rectangle"
                   xmlns:android="http://schemas.android.com/apk/res/android">
                     <corners android:radius="0.0dip" />
-                    <solid android:color="?*android:textColorPrimary" />
+                    <solid android:color="?android:textColorPrimary" />
                     <size android:height="10.0dip" android:width="3.0dip" />
                 </shape>
             </item>
@@ -49,7 +49,7 @@
                 <shape android:shape="rectangle"
                   xmlns:android="http://schemas.android.com/apk/res/android">
                     <corners android:radius="0.0dip" />
-                    <solid android:color="?*android:textColorPrimary" />
+                    <solid android:color="?android:textColorPrimary" />
                     <size android:height="3.0dip" android:width="10.0dip" />
                 </shape>
             </item>
@@ -57,7 +57,7 @@
                 <shape android:shape="rectangle"
                   xmlns:android="http://schemas.android.com/apk/res/android">
                     <corners android:radius="0.0dip" />
-                    <solid android:color="?*android:textColorPrimary" />
+                    <solid android:color="?android:textColorPrimary" />
                     <size android:height="3.0dip" android:width="10.0dip" />
                 </shape>
             </item>
