@@ -156,7 +156,8 @@ PRODUCT_PACKAGES += \
     Contained \
     Retro \
     Narrow \
-    SwitchTelegram
+    SwitchTelegram \
+    Square
 
 # QS Tile styles
 PRODUCT_PACKAGES += \
